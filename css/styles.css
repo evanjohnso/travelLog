@@ -21,6 +21,19 @@ body {
   border: 1px solid black;
 }
 
+.outputs {
+  display: none;
+}
+
+.output {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.output:hover {
+  text-decoration: underline;
+}
+
 #notes {
   height: 100px;
 }
