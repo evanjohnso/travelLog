@@ -10,6 +10,10 @@ body {
   background-size: cover;
 }
 
+.columnTitles {
+  text-align: center;
+}
+
 .jumbotron {
   margin-top: 3%;
   text-align: center;
