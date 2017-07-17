@@ -1,0 +1,22 @@
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background: url('background.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  margin-top: 3%;
+  text-align: center;
+  background: inherit;
+  border: 1px solid black;
+}
+
+#notes {
+  height: 100px;
+}
